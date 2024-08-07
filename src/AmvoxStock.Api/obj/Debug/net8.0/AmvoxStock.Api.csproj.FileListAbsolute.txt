@@ -1,0 +1,7 @@
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.csproj.AssemblyReference.cache
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.AssemblyInfoInputs.cache
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.AssemblyInfo.cs
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.csproj.CoreCompileInputs.cache
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\AmvoxStock\src\AmvoxStock.Api\obj\Debug\net8.0\AmvoxStock.Api.sourcelink.json

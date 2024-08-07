@@ -1,0 +1,15 @@
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\bin\Debug\net8.0\AmovoxStock.Application.deps.json
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\bin\Debug\net8.0\AmovoxStock.Application.dll
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\bin\Debug\net8.0\AmovoxStock.Application.pdb
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\bin\Debug\net8.0\AmovoxStock.Domain.dll
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\bin\Debug\net8.0\AmovoxStock.Domain.pdb
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.csproj.AssemblyReference.cache
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.AssemblyInfoInputs.cache
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.AssemblyInfo.cs
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxSt.30066508.Up2Date
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.dll
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\refint\AmovoxStock.Application.dll
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\AmovoxStock.Application.pdb
+C:\Projetos\AmvoxStock\src\AmovoxStock.Application\obj\Debug\net8.0\ref\AmovoxStock.Application.dll
